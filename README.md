@@ -1,16 +1,18 @@
-## Hi there 👋
+# Anastasia Sedova
 
-<!--
-**anastasia-sedova/anastasia-sedova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics student in Vienna building applied projects in data analytics, business intelligence, machine learning, and banking risk.
 
-Here are some ideas to get you started:
+## Current role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student Assistant (Studienassistentin) at the Faculty of Computer Science, University of Vienna, in the [Research Group Theory and Applications of Algorithms](https://taa.cs.univie.ac.at/) since September 2025.
+
+## Current focus
+
+- SQL and Power BI
+- Data quality and business reporting
+- Applied machine learning in Python
+- Statistical modeling and validation in R
+
+## Current project
+
+Operations & Delivery Dashboard based on the Olist Brazilian E-Commerce dataset.
